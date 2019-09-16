@@ -1,5 +1,5 @@
 # Clone project
-git clone 
+git clone https://github.com/MMalthane/React-App.git
 
 # Install dependencies
 npm install -g yarn
