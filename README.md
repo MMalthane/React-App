@@ -1,5 +1,5 @@
 # Clone project
-git clone https://github.com/CryceTruly/friends-suggestion-app.git
+git clone 
 
 # Install dependencies
 npm install -g yarn
